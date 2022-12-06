@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "fastclick": "^1.0.6",
     "mongoose": "^5.8.10",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "vue": "^2.5.2",
     "vue-cookies": "^1.6.1",
     "vue-resource": "^1.5.1",
